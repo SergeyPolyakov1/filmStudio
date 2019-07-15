@@ -1,0 +1,5 @@
+This program can correct the data about the films stored in the dynamic structure,
+it is also possible to add and delete films from the list, display all the information about all films,
+display the name of films with a duration of more than an hour, and display the name of films released after the year entered.
+It is possible to sort by the field of distribution and search for all the films in the given mode, and the program has an interface that
+allows you to enter data and get the result, and the program can read the data about the film from the file and also write to the file.
